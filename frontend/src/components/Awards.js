@@ -9,19 +9,19 @@ const Awards = () => {
             <div className="row">
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>
@@ -30,19 +30,19 @@ const Awards = () => {
             <div className="row">
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/award.jpeg" style={{ height: '200px', width: '250px' }} />
+                        <img src="award.jpeg" style={{ height: '200px', width: '250px' }} />
                         <p>AWARD1</p>
                     </div>
                 </div>

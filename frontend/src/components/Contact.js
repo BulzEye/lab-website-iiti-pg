@@ -9,7 +9,7 @@ const Contact = () => {
             <div className="row">
                 <div className="column">
                     <div className="card">
-                        <img src="static/dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
+                        <img src="dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
                         <h2>Dr. Puneet Gupta</h2>
                         <p>Associate Professor</p>
                         <p>Indian Institute of Technology Indore</p>
@@ -19,7 +19,7 @@ const Contact = () => {
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
+                        <img src="dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
                         <h2>XXXX</h2>
                         <p>XXXX</p>
                         <p>Indian Institute of Technology Indore</p>
@@ -29,7 +29,7 @@ const Contact = () => {
                 </div>
                 <div className="column">
                     <div className="card">
-                        <img src="static/dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
+                        <img src="dummy.jpeg" style={{ height: '200px', width: '250px', marginBottom: '40px' }} />
                         <h2>XXXX</h2>
                         <p>XXXX</p>
                         <p>Indian Institute of Technology Indore</p>

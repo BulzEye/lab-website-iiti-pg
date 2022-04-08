@@ -8,7 +8,7 @@ const Publications = () => {
             </div>
             <div style={{ backgroundColor: 'black' }}>
                 <div style={{ marginLeft: '180px', marginRight: '180px' }}>
-                    <img src="static/book.jpg" className="img-fluid" alt="book" />
+                    <img src="book.jpg" className="img-fluid" alt="book" />
                 </div>
             </div>
             <div style={{ margin: '10px 50px' }}>
