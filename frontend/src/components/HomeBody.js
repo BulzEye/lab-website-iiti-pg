@@ -1,3 +1,5 @@
+import "./HomeBody.css";
+
 const HomeBody = () => {
     return (
         <div id="homeBody">

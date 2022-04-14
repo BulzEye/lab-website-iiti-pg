@@ -1,0 +1,25 @@
+div#homeBody #aboutlab {
+    margin: 50px;
+    margin-left: 14%;
+    margin-right: 2%;
+    width: 5000px;
+    height: auto;
+    color: black;
+    border: 2px solid black;
+}
+
+div#homeBody .labhead1 {
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+    background-color: antiquewhite;
+}
+
+div#homeBody .labhead2 {
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+    background-color: #a3c4f3;
+}
