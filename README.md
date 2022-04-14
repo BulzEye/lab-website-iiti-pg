@@ -4,9 +4,9 @@ This is a website for the research lab of Dr. Puneet Gupta. It gives general inf
 
 ## Project Screen Shot(s)
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![Home page screenshot](https://github.com/BulzEye/lab-website-iiti-pg/blob/main/home_page.jpg?raw=true)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![Publications page screenshot](https://github.com/BulzEye/lab-website-iiti-pg/blob/main/publications_page.jpg?raw=true)
 
 ## Installation and Setup Instructions
 
