@@ -1,5 +1,8 @@
 import "./PeopleBody.css";
 
+import { Link } from "react-router-dom";
+
+
 const PeopleBody = () => {
     return (
         <div id="peopleBody">
@@ -24,25 +27,25 @@ const PeopleBody = () => {
                         <div className="col">
                             <div className="card">
                                 <h3>Ph.D</h3>
-                                <a type="button" className="btn btn-outline-dark package" href="">List of Students</a>
+                                <a type="button" className="btn btn-outline-dark package" href=""><Link className="nav-link" to="/phdstudentsList">List of Students</Link></a>
                             </div>
                         </div>
                         <div className="col">
                             <div className="card">
                                 <h3>PG</h3>
-                                <a type="button" className="btn btn-outline-dark package" href="">List of Students</a>
+                                <a type="button" className="btn btn-outline-dark package" href=""><Link className="nav-link" to="/pgstudentsList">List of Students</Link></a>
                             </div>
                         </div>
                         <div className="col">
                             <div className="card">
                                 <h3>B.Tech</h3>
-                                <a type="button" className="btn btn-outline-dark package" href="">List of Students</a>
+                                <a type="button" className="btn btn-outline-dark package" href=""><Link className="nav-link" to="/btechstudentsList">List of Students</Link></a>
                             </div>
                         </div>
                         <div className="col">
                             <div className="card">
                                 <h3>Alumni</h3>
-                                <a type="button" className="btn btn-outline-dark package" href="">List of Students</a>
+                                <a type="button" className="btn btn-outline-dark package" href=""><Link className="nav-link" to="/alumnistudentsList">List of Students</Link></a>
                             </div>
                         </div>
                     </div>
